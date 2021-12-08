@@ -10,6 +10,6 @@ def main():
     my_superfunction()
 
 
-print("hello")
+print("hello and hi!!")
 if __name__ == '__main__':
     main()
